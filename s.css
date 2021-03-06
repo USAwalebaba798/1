@@ -1,0 +1,37 @@
+body{font-family:arial;
+  background-color: black;
+  color: white;
+}
+table, th, td {
+    border: 10px white;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+	
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: rgba(172, 228, 83, 0.877);
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 65px;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background-color: rgb(39, 37, 37);
+    color: black;
+  }
+
+  .header{
+    background-color: white;
+  }
+  
